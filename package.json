@@ -1,13 +1,14 @@
 {
   "name": "websocket-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple WebSocket server using Express and ws",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.1",
